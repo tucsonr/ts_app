@@ -1,0 +1,5 @@
+numpy
+dash
+plotly-resampler
+trace-updater
+pandas
