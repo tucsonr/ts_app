@@ -1,9 +1,8 @@
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import pandas as pd
-from dash import Dash, html, dcc
 from plotly_resampler import FigureResampler
-from dash import State, no_update, html, Output, Input
+from dash import Dash, html, dcc, State, no_update, html, Output, Input, callback
 import numpy as np
 import parsers as prs
 from styles import *
