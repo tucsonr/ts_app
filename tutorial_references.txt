@@ -1,0 +1,3 @@
+
+time series annotation
+https://predict-idlab.github.io/plotly-resampler/v0.9.0/getting_started/#figurewidget
